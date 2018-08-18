@@ -6,6 +6,7 @@ def my_collect
     i += 1
   end
   collection
+  end
 end
 
 array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
